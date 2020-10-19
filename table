@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+table{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    background-color: lightgray;
+}
+</style>
+    <link rel="stylesheet" href="style1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>first Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Fammy</td>
+            <td>Tammy</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Old</td>
+            <td>Gong</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Hani</td>
+            <td>Joyous</td>
+            <td>12</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
